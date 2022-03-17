@@ -1,0 +1,2 @@
+pkg1:pkg2
+-DCATKIN_DEVEL_PREFIX=/home/flamehog/test_ws/devel -DCMAKE_INSTALL_PREFIX=/home/flamehog/test_ws/install -G Unix Makefiles
